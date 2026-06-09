@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-HEY THERE CHECK OUT MY WEBSITE https://vanish-chat-j5p5.onrender.com/
+Solo Developer using ai models to train and make things!!!
 
 
 ## 🌐 Socials:
